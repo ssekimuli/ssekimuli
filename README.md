@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ssekimuli
-- 👀 I’m interested in web development, Backend development, FrontEnd Development, app development, networking, data visualization, data clerk, Digital marketing
+- 👀 I’m interested in web development, Backend development, FrontEnd Development, app development,POS system development networking, data visualization, data clerk, Digital marketing
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me WhatsApp +256759672755, ssekimuliandrew321@gmail.com
