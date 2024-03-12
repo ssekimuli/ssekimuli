@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ssekimuli
-- 👀 I’m interested in web development, Backend development, FrontEnd Development, app development,POS system development networking, Laravel TDD UNIT TEST VUE JS ...
+- 👀 I’m interested in web development, Backend development, FrontEnd Development, app development,POS system development networking, Laravel TDD UNIT TEST VUE JS , String Boot Java ...
 - 📫 How to reach me WhatsApp +256759672755, ssekimuliandrew321@gmail.com
 
 <!---
